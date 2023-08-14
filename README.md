@@ -1,3 +1,6 @@
+##### Use https://nbviewer.org to upload the file in case of errors
+---
+
 # Drug Classification
 This notebook is a demonstration of how to classify drugs based on their properties using Kaggle's Drug Classification Dataset.
 Drug use can have negative effects on a person's health. It is important to understand what the properties of drugs are and how they can affect the human body to help prevent drug misuse and provide appropriate treatments.
